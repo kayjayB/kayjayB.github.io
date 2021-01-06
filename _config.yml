@@ -38,12 +38,12 @@ linkedin_username: kayla-jade-butkow-00343b132
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Kayla! I'm a first year PhD student in the [Mobile Systems](https://www.cl.cam.ac.uk/~cm542/group.html) group at the University of Cambridge. With my supervisor, [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/), I am investigating using ear-worn sensors (Earables) for mobile health monitoring, with a specific focus on respiratory health. I am a member of [Magdalene College](https://www.magd.cam.ac.uk/) and my research is supported by Nokia Bell Labs, the Cambridge Trust and the Sensor CDT.
+  Hi, I'm Kayla! I'm a first year PhD student in the [Mobile Systems](https://www.cl.cam.ac.uk/~cm542/group.html) group at the University of Cambridge. With my supervisor, [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/), I am investigating using ear-worn sensors (Earables) for mobile health monitoring, with a specific focus on respiratory health. I am a member of [Magdalene College](https://www.magd.cam.ac.uk/) and my research is supported by Nokia Bell Labs, the [Cambridge Trust](https://www.cambridgetrust.org/) and the [EPSRC CDT in Sensor Technologies for a Healthy and Sustainable Future](https://cdt.sensors.cam.ac.uk/).
 
-  I did my Master of Research at the University of Cambridge through the [Sensor CDT](https://cdt.sensors.cam.ac.uk/), and have undergraduate degrees in Biomedical Engineering, and Electrical and Information Engineering from the [University of the Witwatersrand, Johannesburg](https://www.wits.ac.za/).
+  I did my Master of Research at the University of Cambridge through the [EPSRC CDT in Sensor Technologies for a Healthy and Sustainable Future](https://cdt.sensors.cam.ac.uk/), and have undergraduate degrees in Biomedical Engineering, and Electrical and Information Engineering from the [University of the Witwatersrand, Johannesburg](https://www.wits.ac.za/).
 
 content:
-  - title: Projects # Title for the section
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
