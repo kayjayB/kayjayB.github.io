@@ -7,32 +7,23 @@ version: 2
 
 # Personal info
 name: Kayla-Jade Butkow
-title: PhD student
+title: PhD student in the Mobile Systems group at the University of Cambridge
 email: kjb85@cam.ac.uk
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+twitter_username: KaylaButkow
+github_username:  kayjayB
+facebook_username: kaylajade.butkow
+linkedin_username: kayla-jade-butkow-00343b132
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,13 +38,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, I'm Kayla! I'm a first year PhD student in the [Mobile Systems](https://www.cl.cam.ac.uk/~cm542/group.html) group at the University of Cambridge. With my supervisor, [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/), I am investigating using ear-worn sensors (Earables) for mobile health monitoring, with a specific focus on respiratory health. I am a member of [Magdalene College](https://www.magd.cam.ac.uk/) and my research is supported by Nokia Bell Labs, the Cambridge Trust and the Sensor CDT.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  I did my Master of Research at the University of Cambridge through the [Sensor CDT](https://cdt.sensors.cam.ac.uk/), and have undergraduate degrees in Biomedical Engineering, and Electrical and Information Engineering from the [University of the Witwatersrand, Johannesburg](https://www.wits.ac.za/).
 
 content:
   - title: Projects # Title for the section
